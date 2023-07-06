@@ -1,0 +1,15 @@
+.header {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 0%;
+    width: 94%;
+    border-color: rgb(216, 216, 216);
+    border-width: 1px;
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
