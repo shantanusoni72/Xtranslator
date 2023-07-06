@@ -9,7 +9,7 @@ const apiSearch = {
             "endpoint": "https://typewise-ai.p.rapidapi.com/language_detection/detector"
         }
     },
-    "X-RapidAPI-Key": "334e2f8d43msh3bdef36f36cb285p1cf9e8jsn6688cac7cf3b"
+    "X-RapidAPI-Key": "<api-key>"
 }
 
 const options = {
